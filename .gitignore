@@ -1,0 +1,12 @@
+# Environment variables
+.env
+
+# WordPress content (optional - uncomment if you don't want to track)
+wp-content
+
+# Docker volumes
+db_data/
+
+# OS files
+.DS_Store
+Thumbs.db
